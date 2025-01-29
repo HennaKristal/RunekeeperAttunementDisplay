@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<Plugin> 
+    <Information>
+    <Name>RunekeeperAttunementDisplay</Name>
+        <Author>HennaKristal</Author>
+        <Version>1.1.3</Version>
+        <Image>RunekeeperAttunementDisplay/Images/icon.tga</Image>
+<Description>
+DESCRIPTION
+¯¯¯¯¯¯¯¯¯¯¯
+This plugin displays rune-keeper's attunement in a custom UI element.
+</Description>
+    </Information>
+    <Package>RunekeeperAttunementDisplay.Compiler</Package>
+    <Configuration Apartment = "RunekeeperAttunementDisplay" />
+</Plugin>
